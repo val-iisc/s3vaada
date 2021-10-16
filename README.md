@@ -2,7 +2,7 @@
 ## ICCV 2021
 Harsh Rangwani, Arihant Jain*, Sumukh K Aithal*, R. Venkatesh Babu\
 Video Analytics Lab, Indian Institute of Science, Bengaluru
-## [[Project Webpage]](https://sites.google.com/iisc.ac.in/s3vaada-iccv2021/) [[Paper](https://arxiv.org/pdf/2109.08901v1.pdf)]
+## [[Project Webpage](https://sites.google.com/iisc.ac.in/s3vaada-iccv2021/)] [[Paper](https://arxiv.org/pdf/2109.08901v1.pdf)]
 
 ## Overview
 ![Alt Text](images/overview.gif)
@@ -10,7 +10,7 @@ Video Analytics Lab, Indian Institute of Science, Bengaluru
 ## Setup the requirements
 Run the following commands to setup your environment
 ```
-git clone https://github.com/sumukhaithal6/s3vaada.git
+git clone https://github.com/val-iisc/s3vaada.git
 cd s3vaada/
 pip install -r requirements.txt
 cd models/
@@ -43,7 +43,7 @@ python main.py --name w2a-s3vaada --source webcam --target amazon
 ```
 
 ## Citation
-If you'd like to cite our paper, use the following BibTeX entry.
+If you find our work useful cite our paper using the following BibTeX entry.
 ```
 @InProceedings{Rangwani_2021_ICCV,
     author    = {Rangwani, Harsh and Jain, Arihant and Aithal, Sumukh K and Babu, R. Venkatesh},
