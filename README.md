@@ -4,8 +4,16 @@ Harsh Rangwani, Arihant Jain*, Sumukh K Aithal*, R. Venkatesh Babu\
 Video Analytics Lab, Indian Institute of Science, Bengaluru
 ## [[Project Webpage](https://sites.google.com/iisc.ac.in/s3vaada-iccv2021/)] [[Paper](https://arxiv.org/pdf/2109.08901v1.pdf)]
 
-## Overview
+
+
+
+## TLDR
+Obtain perfamance close to supervised learning using small amount of labelled data (~10%) in target domain, for adapting a model from source to target domain.
+
 ![Alt Text](images/overview.gif)
+
+## Results
+![Results][images/resuts_office.png]
 
 ## Setup the requirements
 Run the following commands to setup your environment
@@ -36,6 +44,7 @@ sh get_office-home.sh
 python preprocess_office-home.py
 cd ../
 ```
+
 
 ## Training
 ```
