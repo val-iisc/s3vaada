@@ -13,7 +13,7 @@ Obtain perfamance close to supervised learning using small amount of labelled da
 ![Alt Text](images/overview.gif)
 
 ## Results
-![Results][images/resuts_office.png]
+![Results](images/results_office.png)
 
 ## Setup the requirements
 Run the following commands to setup your environment
