@@ -12,7 +12,7 @@ Obtain perfamance close to supervised learning using small amount of labelled da
 
 ![Alt Text](images/overview.gif)
 
-## Results
+## Results on Office-Home
 ![Results](images/results_office.png)
 
 ## Setup the requirements
