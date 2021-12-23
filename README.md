@@ -8,7 +8,7 @@ Video Analytics Lab, Indian Institute of Science, Bengaluru
 
 
 ## TLDR
-Obtain perfamance close to supervised learning using small amount of labelled data (~10%) in target domain, for adapting a model from source to target domain.
+Obtain performance close to supervised learning using small amount of labelled data (~10%) in target domain, for adapting a model from source to target domain.
 
 ![Alt Text](images/overview.gif)
 
