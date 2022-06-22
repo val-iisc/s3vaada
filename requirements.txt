@@ -30,7 +30,7 @@ Markdown==3.3.3
 matplotlib==3.3.2
 MulticoreTSNE==0.1
 networkx==2.5
-numpy==1.21.0
+numpy==1.22.0
 oauthlib==3.1.0
 opencv-contrib-python==4.2.0.34
 pandas==1.1.2
