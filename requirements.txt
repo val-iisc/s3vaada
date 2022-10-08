@@ -23,7 +23,7 @@ idna==2.10
 imageio==2.9.0
 importlib-metadata==3.4.0
 iopath==0.1.2
-joblib==0.17.0
+joblib==1.2.0
 kiwisolver==1.2.0
 kornia==0.4.0
 Markdown==3.3.3
