@@ -78,6 +78,6 @@ typing-extensions==3.7.4.3
 urllib3==1.26.5
 wandb==0.10.4
 watchdog==0.10.3
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 yacs==0.1.8
 zipp==3.4.0
